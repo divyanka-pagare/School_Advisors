@@ -8,15 +8,15 @@ A MERN stack project.
 
 ## Project Details
 
-**SchoolAdvisor** is a comprehensive student guidance platform built to modernize how school advisors operate. Traditional advisory services are held back by generic, one-size-fits-all guidance, advisors stretched thin across too many students, and communication gaps between students, advisors, and parents. SchoolAdvisor tackles this by giving advisors a streamlined, technology-driven workflow for delivering personalized academic and career guidance at scale.
+**SchoolAdvisor** is a comprehensive student guidance platform built to modernize how parents find the best school for their child. Traditional school selection is held back by generic information, difficulty comparing schools, and communication gaps between schools and parents. SchoolAdvisor tackles this by giving parents a streamlined, technology-driven platform for discovering personalized school options based on their child's needs.
 
-The platform centralizes student records, advisory interactions, and progress tracking in one place — replacing scattered spreadsheets and informal check-ins with a structured, data-backed advisory process. The goal is a scalable system that strengthens student–advisor relationships and gives advisors the tools to measure their real impact on student outcomes.
+The platform centralizes school profiles, key evaluation criteria, and location-based listings in one place — replacing scattered searches and informal inquiries with a structured, data-backed school selection process. The goal is a scalable system that strengthens school–parent relationships and gives parents the tools to make informed decisions about their child's education.
 
 **Key Problems Addressed**
 - Limited personalization in advisory strategies
-- Advisor workload and resource allocation inefficiencies
-- Communication gaps between students, advisors, and parents
-- Restricted access to up-to-date educational and career information
+- Information inefficiencies when comparing multiple schools
+- Communication gaps between schools and parents
+- Restricted access to up-to-date school information
 - Lack of seamless technology integration in advisory workflows
 - No clear metrics to evaluate advisory impact
 
