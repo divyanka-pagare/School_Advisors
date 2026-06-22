@@ -1,98 +1,59 @@
-# School_Advisors
-<p>This project is developed during a Web Development Internship at Sumago Infotech Pvt. Ltd.</p><br>
-<p>Used technologies - HTML, CSS, JS, bootstrap, MERN stack, ReactBootstrap</p>
+# SchoolAdvisor
 
-<img width="698" alt="{2BF373DB-0AE4-4250-A064-8167D591DF48}" src="https://github.com/user-attachments/assets/313cd88b-3313-4263-bdae-842fad8ede3b" />
+🏆 **1st Runner-Up** — Project Competition, organized by **Sumago Infotech Pvt. Ltd.** across 5+ branches · 50+ teams competed
 
-<pre>
+A MERN stack project.
 
-Title –  SchoolAdvisor 
-"Enhancing School Advisory Services: A Comprehensive Solution for Improved Student Guidance" 
+---
 
-Problem Statement -
-   In the contemporary educational landscape, the role of school advisors is pivotal 
-   in fostering the holistic development and academic success of students. However, many 
-   educational institutions are grappling with challenges in their advisory services, 
-   hindering the optimal utilization of this essential resource. The problem statement for 
-   this project, "School Advisor," revolves around identifying and addressing the key 
-   issues that impede the effectiveness of school advisory services.
+## Project Details
 
-1. Limited Personalization -
-   Traditional advisory approaches often lack personalized strategies tailored to individual 
-   student needs, learning styles, and career aspirations. This hampers the advisor's ability 
-   to provide targeted guidance, hindering students from making informed decisions about their 
-   academic and future career paths.
+**SchoolAdvisor** is a comprehensive student guidance platform built to modernize how school advisors operate. Traditional advisory services are held back by generic, one-size-fits-all guidance, advisors stretched thin across too many students, and communication gaps between students, advisors, and parents. SchoolAdvisor tackles this by giving advisors a streamlined, technology-driven workflow for delivering personalized academic and career guidance at scale.
 
-2. Resource Allocation and Workload Management -
-   School advisors frequently face overwhelming workloads, limiting the time and attention 
-   they can dedicate to each student. Inadequate resource allocation and a lack of streamlined 
-   tools contribute to inefficiencies, preventing advisors from maximizing their impact on student 
-   success.
+The platform centralizes student records, advisory interactions, and progress tracking in one place — replacing scattered spreadsheets and informal check-ins with a structured, data-backed advisory process. The goal is a scalable system that strengthens student–advisor relationships and gives advisors the tools to measure their real impact on student outcomes.
 
-3. Communication Gaps -
-   Communication breakdowns between students, advisors, and parents can hinder the effectiveness 
-   of advisory services. Timely and transparent communication is essential for building trust 
-   and ensuring that all stakeholders are well-informed about academic progress, extracurricular 
-   opportunities, and potential challenges.
+**Key Problems Addressed**
+- Limited personalization in advisory strategies
+- Advisor workload and resource allocation inefficiencies
+- Communication gaps between students, advisors, and parents
+- Restricted access to up-to-date educational and career information
+- Lack of seamless technology integration in advisory workflows
+- No clear metrics to evaluate advisory impact
 
-4. Limited Access to Information -
-   Advisors often encounter difficulties accessing comprehensive and up-to-date information about 
-   educational trends, career opportunities, and college admission requirements. This limitation 
-   restricts their ability to provide accurate and relevant guidance to students.
+---
+
+## Tech Stack
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `React.js` `React Bootstrap` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## Project Members
+
+- Atharva Ahire
+- Arvind Prajapati
+- Gaurav Chaudhari
+- Vaishnavi Patil
+- Divyanka Pagare
 
 
-5. Technology Integration Challenges -
-   Many educational institutions struggle with integrating technology seamlessly into advisory 
-   services. Outdated systems and a lack of user-friendly platforms impede the efficient use of 
-   technology to enhance communication, data analysis, and overall advisory processes.
+*Developed during a Web Development Internship at Sumago Infotech Pvt. Ltd.*
 
-6. Evaluation and Impact Measurement -
-   There is a need for robust methods to evaluate the effectiveness of advisory services. Without 
-   clear metrics and assessment tools, it becomes challenging to measure the impact of advisory 
-   interventions on students' academic achievements, personal growth, and post-graduation success.
-</pre>
-<pre>
-   Requirements  -
-•	Hardware Requirements –
+---
 
-Windows, Mac, Linux
-Operating system - Windows 8 or later, macOS High Sierra 10.13 or later	64-bit
-Ubuntu 14.04+,
-Debian 8+,
-openSUSE 13.3+, or
-Fedora Linux 24+
-Processor - Intel Pentium 4 or later
-IDE - Visual Studio Code		
-Memory - 2 GB minimum, 4 GB recommended
-Screen resolution	- 1280x1024 or larger
-Application window size - 1024x680 or larger
-Internet connection - Required
+## Recognition
 
-</pre>
-<pre>
-   •	Software Requirements –
-1. HTML
-2. CSS
-3. JavaScript
-4. Bootstrap
-5. React.js
-6. Node.js
-7. Express.js
-8. Mongodb
-9. React Bootstrap
-</pre>
+| Achievement | Detail |
+|---|---|
+| 🏆 Result | **1st Runner-Up** |
+| 🧩 Competition | Project Competition — Sumago Infotech Pvt. Ltd. |
+| 🏢 Scope | Across 5+ company branches |
+| 👥 Competing Teams | 50+ teams |
 
-   
-Conclusion -
-This project aims to address these challenges by developing a comprehensive solution that leverages technology, personalized strategies, and effective communication channels to enhance the overall efficiency of school advisory services. The goal is to create a scalable and adaptable system that empowers school advisors to provide tailored guidance, fosters stronger student-advisor relationships, and contributes to the overall success and well-being of students in the educational journey.
+---
 
-<pre>  
-Group Project - 
-  Members - 
-Divyanka Pagare  
-Atharva Ahire 
-Arvind Prajapati 
-Gaurav Chaudhari 
-Vaishnavi Patil </pre>
+## Preview
+
+<img width="698" alt="SchoolAdvisor preview" src="https://github.com/user-attachments/assets/313cd88b-3313-4263-bdae-842fad8ede3b" />
 
 
