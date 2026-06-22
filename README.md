@@ -20,6 +20,7 @@ The platform centralizes school profiles, key evaluation criteria, and location-
 - Lack of seamless technology integration in advisory workflows
 - No clear metrics to evaluate advisory impact
 
+
 ---
 
 ## Tech Stack
